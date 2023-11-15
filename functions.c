@@ -1,19 +1,18 @@
 #include "main.h"
-
-<<<<<<< HEAD
+#include <stdio.h>
+#include <stdlib.h>
 
 /**
- *  * print_char - Prints a char
- *   * @types: arguments
- *    * @buffer: Buffer array to handle print
- *     * @flags:  Calculates active flags
- *      * @width: Width
- *       * @precision: Precision specification
- *        * @size: Size specifier
- *         * Return: Number of chars printed
- *          */
-=======
-/************************* PRINT CHAR *************************/
+ * print_char - Prints a char
+ * @types: arguments
+ * @buffer: Buffer array to handle print
+ * @flags:  Calculates active flags
+ * @width: Width
+ * @precision: Precision specification
+ * @size: Size specifier
+ * Return: Number of chars printed
+ */
+
 /**
  * print_char - Prints a char
  * @types: List of arguments
@@ -24,30 +23,25 @@
  * @size: Size specifier
  * Return: Number of chars printed
  */
->>>>>>> 5a920d72f2b867c49299b67bd23ea9ffafc4ad6c
-int print_char(va_list types, char buffer[],
-               int flags, int width, int precision, int size)
-{
-    char c = va_arg(types, int);
 
-    return (handle_write_char(c, buffer, flags, width, precision, size));
+int print_char(va_list types, char buffer[],
+		int flags, int width, int precision, int size)
+{
+	char c = va_arg(types, int);
+	return (handle_write_char(c, buffer, flags, width, precision, size));
 }
 
-<<<<<<< HEAD
-
 /**
- *  * print_string - Prints a string
- *   * @types: arguments
- *    * @buffer: Buffer array to handle print
- *     * @flags:  Calculates active flags
- *      * @width: get width.
- *       * @precision: Precision specification
- *        * @size: Size specifier
- *         * Return: Number of chars printed
- *          */
+ * print_string - Prints a string
+ * @types: arguments
+ * @buffer: Buffer array to handle print
+ * @flags:  Calculates active flags
+ * @width: get width.
+ * @precision: Precision specification
+ * @size: Size specifier
+ * Return: Number of chars printed
+ */
 
-=======
-/************************* PRINT A STRING *************************/
 /**
  * print_string - Prints a string
  * @types: List of arguments
@@ -58,9 +52,9 @@ int print_char(va_list types, char buffer[],
  * @size: Size specifier
  * Return: Number of chars printed
  */
->>>>>>> 5a920d72f2b867c49299b67bd23ea9ffafc4ad6c
+
 int print_string(va_list types, char buffer[],
-                 int flags, int width, int precision, int size)
+		int flags, int width, int precision, int size)
 {
     int length = 0, i;
     char *str = va_arg(types, char *);
