@@ -3,7 +3,7 @@
 /**
  * print_revs - function that print a string in reverse
  * @args: type struct va_arg where is allocated printf arguments
- *
+ * i added this comment so i can confirm I did something and review the content
  * Return: the string
  */
 int print_revs(va_list args)
