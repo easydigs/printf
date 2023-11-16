@@ -3,7 +3,7 @@
 /**
  * print_s - function that print string
  * @val: argument
- *
+ * i added this comment so i can confirm I did something and review the content
  * Return: The length of the string
  */
 
