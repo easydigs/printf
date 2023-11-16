@@ -4,7 +4,7 @@
  * _printf - function that prints the actual function to print
  * @format: character string
  * Return: the length of the string
- *
+ *i add this comment so i can conferm i did somthing and reviewing content
  */
 
 int _printf(const char * const format, ...)
