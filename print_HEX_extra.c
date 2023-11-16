@@ -2,9 +2,9 @@
 #include "main.h"
 
 /**
- * print_HEX_extra - prints an hexedecimal number.
+ * print_HEX_extra - prints an hex number.
  * @num: number to print
- * i added this comment so i can confirm I did something and review the content
+ * I added this comment so I can confirm I did something and review the content
  * Return: counter
  */
 
