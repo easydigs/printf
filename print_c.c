@@ -3,7 +3,7 @@
 /**
  * print_c - prints a character
  * @val: arguments
- *i added this comment so i can confirm I did something and review the content
+ * i added this comment so i can confirm I did something and review the content
  * Return: integer
  */
 
