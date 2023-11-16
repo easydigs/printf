@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * print_rot13 - convert to rot13
- * @args: printf arguments
- * i added this comment so i can confirm I did something and review the content
+ * print_rot13 - function to convert to rot13
+ * @args: arguments
+ * I added this comment so I can confirm I did something and review the content
  * Return: counter
  *
  */
