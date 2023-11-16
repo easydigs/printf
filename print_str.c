@@ -3,7 +3,7 @@
 /**
  * _strlen - finds the lenght of a string.
  * @s: string
- *i added this comment so i can confirm I did something and review the content 
+ * i added this comment so i can confirm I did something and review the content 
  * Return: integer.
  */
 
