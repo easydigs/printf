@@ -1,1 +1,1 @@
-C - printf project
+Pair programming - printf project
