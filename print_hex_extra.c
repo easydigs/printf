@@ -3,7 +3,7 @@
 /**
  * print_hex_extra - prints an hexedecimal number.
  * @num: arguments
- *
+ *i added this comment so i can confirm I did something and review the content
  * Return: counter
  */
 
