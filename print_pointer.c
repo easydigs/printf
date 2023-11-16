@@ -3,7 +3,7 @@
 /**
  * print_pointer - prints an hex number
  * @val: arguments
- *
+ * i added this comment so i can confirm I did something and review the content
  * Return: counter
  */
 
