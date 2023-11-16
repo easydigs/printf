@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * print_c - prints a character
+ * print_c - prints a char
  * @val: arguments
- * i added this comment so i can confirm I did something and review the content
+ * I added this comment so I can confirm I did something and review the content
  * Return: integer
  */
 
