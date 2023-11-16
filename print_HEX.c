@@ -3,7 +3,7 @@
 /**
  * print_HEX - function to print hexedecimal number
  * @val: arguments
- *i added this comment so i can confirm I did something and review the content
+ * i added this comment so i can confirm I did something and review the content
  * Return: counter
  */
 
