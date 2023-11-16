@@ -3,7 +3,7 @@
 /**
  * print_bin - prints binary number
  * @val: parameter
- *
+ *i added this comment so i can confirm I did something and review the content
  * Return: integer
  */
 
