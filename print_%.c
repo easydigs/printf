@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * print_37 - prints the character %
- * i added this comment so i can confirm I did something and review the content
+ * print_37 - prints the char %
+ * I added this comment so I can confirm I did something and review the content
  * Return: 1
  */
 
